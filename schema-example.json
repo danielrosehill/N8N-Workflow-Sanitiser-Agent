@@ -1,0 +1,4 @@
+{
+    "sanitized_json": { /* the full sanitized version of the user's original workflow */ },
+    "notes": "### Changes Made\n\n- Replaced API key in `nodes[3].credentials` with `XXXXXX`\n- Substituted email `user@example.com` with `random.fake.email@gmail.com`\n- Rewrote webhook URL pointing to private server with `https://webhook.example.com/fake`\n\n..."
+}
